@@ -5,11 +5,11 @@
 Horiseon Website's HTML and CSS files were adjusted to include semantic elements to improve starter code and accessible attributes to improve accessibility, therefore optimizing website for search engines.
 The project reinforced topics learned during the week such as classes and id's, accessibility functions in html code and semantic elements.
 
-##Installation
+## Installation
 
 N/A
 
-##Usage
+## Usage
 
 N/A
 
